@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/QuadNard?tab=repositories](https://github.com/QuadNard?tab=repositories)
 
-- 📝 I regularly give adivce and tutor involving programming and goal setting. [https://aesthetic-cat-4ec59a.netlify.app/](https://aesthetic-cat-4ec59a.netlify.app/)
+- 📝 I regularly give adivce and tutor involving programming and goal setting. [https://peppy-genie-ad85f5.netlify.app/](https://peppy-genie-ad85f5.netlify.app/)
 
 - 💬 Quote that fuels my ambitions in life **—” Do not go gentle into that good night, old age should burn and rave at close of day. Rage, Rage, against the dying of the light”.**
 
