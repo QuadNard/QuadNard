@@ -32,6 +32,13 @@ As a self-driven and ambitious individual , I have spent the last two years honi
 ### 📺 Latest Projects push to Development
 
 <!-- BEGIN PROJECT-CARDS -->
-[![Giphy App](https://giphy-app-pied.vercel.app/?[Imgur](https://i.imgur.com/t6PIuyd.jpg)(https://giphy-app-pied.vercel.app/)
+
+<p>MaadSounds Application</p>
+
+[<img align="left" alt="MaadSounds" style="padding-right:10px;" src="https://i.imgur.com/VBTHFQLm.png" />](https://maadsounds.vercel.app/)
+
+<p>MaadSounds Application</p>
+
+[<img align="left" alt="MaadSounds" style="padding-right:10px;" src="https://i.imgur.com/VBTHFQLm.png" />](https://maadsounds.vercel.app/)
 
 <!-- END PROJECT-CARDS -->
