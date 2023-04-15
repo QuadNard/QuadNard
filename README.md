@@ -3,13 +3,6 @@
 **`Software Engineer(Frontend Developer)`**
 <h3 align="center">A dedicated software engineer, looking towards engineer ingenuity.</h3>
 
-As a self-driven and ambitious individual , I have spent the last two years honing my skills and expanding my knowledge on the industry. I have gained experience working with a variety of technologies and tools, including JavaScript frameworks such as Next.js and React.js. 
-
-   <p align="left">
-        <a href="">
-  </a>
-  
-    </p>
     
     
 ---
@@ -29,16 +22,16 @@ As a self-driven and ambitious individual , I have spent the last two years honi
 
 #
 
-### 📺 Latest Projects push to Development
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+As a self-driven and ambitious individual , I have spent the last two years honing my skills and expanding my knowledge on the industry. I have gained experience working with a variety of technologies and tools, including JavaScript frameworks such as Next.js and React.js. 
 
-<!-- BEGIN PROJECT-CARDS -->
+My experience working on real-world projects and interacting with other engineers in the field has allowed me to develop a strong understanding of the software development process, from designing and building scalable and performant applications, to integrating third-party APIs and ensuring that data is securely stored and processed.
 
-<p>MaadSounds Application</p>
+I am particularly interested in the user experience aspect of web development, and system design I am always looking for ways to improve the interaction between users and the applications I build. This has led me to focus on areas such as real-time data updates and secure payment processing, and I am constantly seeking out new opportunities to learn and grow in these areas.
 
-[<img align="left" alt="MaadSounds" style="padding-right:10px;" src="https://i.imgur.com/VBTHFQLm.png" />](https://maadsounds.vercel.app/)
+I am excited to continue my career as a software engineer, and I look forward to the opportunity to bring my skills and experience to a more managerial position and challenging projects in the future.🙂
 
-<p>MaadSounds Application</p>
-
-[<img align="left" alt="MaadSounds" style="padding-right:10px;" src="https://i.imgur.com/VBTHFQLm.png" />](https://maadsounds.vercel.app/)
-
-<!-- END PROJECT-CARDS -->
+   
+[Portfolio]:    
+[Linkedin]: https://www.linkedin.com/in/justin-tulloch-010502262/
