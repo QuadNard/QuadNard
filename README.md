@@ -26,3 +26,12 @@ As a self-driven and ambitious individual , I have spent the last two years honi
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
+
+### 📺 Latest Projects push to Development
+
+<!-- BEGIN PROJECT-CARDS -->
+[![Giphy App](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=AI+Tools+EVERY+Software+Engineer+Should+Know+About&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "Giphy App")](https://giphy-app-pied.vercel.app/)
+
+<!-- END PROJECT-CARDS -->
