@@ -5,15 +5,12 @@
 
 As a self-driven and ambitious individual , I have spent the last two years honing my skills and expanding my knowledge on the industry. I have gained experience working with a variety of technologies and tools, including JavaScript frameworks such as Next.js and React.js. 
 
-   <p align="left">
-        <a href="">
-  </a>
-  
-    </p>
+
     
     
     ------
     
-    ###  Languages and Tools
-    
+    ### 🧰  Languages and Tools
+    <br>
     <img  align="left" alt="Java" width="30px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</br>
