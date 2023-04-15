@@ -32,6 +32,6 @@ As a self-driven and ambitious individual , I have spent the last two years honi
 ### 📺 Latest Projects push to Development
 
 <!-- BEGIN PROJECT-CARDS -->
-[![Giphy App](https://giphy-app-pied.vercel.app/?id=jArtVVbYGKk&title=AI+Tools+EVERY+Software+Engineer+Should+Know+About&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "Giphy App")](https://giphy-app-pied.vercel.app/)
+[![Giphy App](https://giphy-app-pied.vercel.app/?[Imgur](https://i.imgur.com/t6PIuyd.jpg)(https://giphy-app-pied.vercel.app/)
 
 <!-- END PROJECT-CARDS -->
