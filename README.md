@@ -1,7 +1,7 @@
 # 🍏 Justin Tulloch [QuadNard]
 
 **`Software Engineer`**
-<h3 align="center">A dedicated software engineer, looking towards engineer ingenuity.</h3>
+<h3 align="center">Built With ❤️ For Engineering</h3>
 
     
     
