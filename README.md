@@ -1,6 +1,6 @@
 # 🍏 Justin Tulloch [QuadNard]
 
-**`Software Engineer(Frontend Developer)`**
+**`Software Engineer`**
 <h3 align="center">A dedicated software engineer, looking towards engineer ingenuity.</h3>
 
     
