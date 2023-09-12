@@ -33,3 +33,8 @@ I am excited to continue my career as a software engineer, and I look forward to
    
 [Portfolio]: https://techfoliohub.vercel.app/   
 [Linkedin]: https://www.linkedin.com/in/justin-tulloch-010502262/
+
+
+
+
+![snake gif](https://github.com/QuadNard/QuadNard/blob/output/github-contribution-grid-snake.gif)
