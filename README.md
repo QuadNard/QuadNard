@@ -10,7 +10,7 @@
 </br>
 
 - 🔭 I’m currently working on ... Leet Code
-- 🌱 I’m currently learning ... with Freecodeacademy 
+- 🌱 I’m currently working with ... Frontend Development
 - 👯 I’m looking to contribute to ... any open source projects
 - 💬 Ask me about ... anything about tech
 - 📫 How to reach me: ... jkinardtulloch@gmail.com
