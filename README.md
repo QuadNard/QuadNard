@@ -3,7 +3,10 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=404040&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+engineering" alt="Typing SVG" /></a>
 </p>
 
-![QuadNard](https://wallpapercave.com/wp/wp4751480.png)
+<div align=center>
+  <img src="https://wallpapercave.com/wp/wp4751480.png" width="500" height="300"> 
+</div>
+
 
 - 🔭 I’m currently working on ... Leet Code
 - 🌱 I’m currently learning ... with Freecodeacademy 
