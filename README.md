@@ -1,40 +1,27 @@
-# 🍏 Justin Tulloch [QuadNard]
+# ⌨️ Justin Tulloch 
+<p align=center>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=404040&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+engineering" alt="Typing SVG" /></a>
+</p>
 
-**`Software Engineer`**
-<h3 align="center">Built With ❤️ For Engineering</h3>
+![QuadNard](https://wallpapercave.com/wp/wp4751480.png)
 
-    
-    
----
+- 🔭 I’m currently working on ... Leet Code
+- 🌱 I’m currently learning ... with Freecodeacademy 
+- 👯 I’m looking to contribute to ... any open source projects
+- 💬 Ask me about ... anything about tech
+- 📫 How to reach me: ... jkinardtulloch@gmail.com
+- ⚡ Fun hobbies: ... I enjoy building custom pc's
 
-### 🧰 Languages and Tools
-    
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+![](https://img.shields.io/badge/Os-Linux-green)
+![](https://img.shields.io/badge/Os-Windows-green)
+![](https://img.shields.io/badge/Code-Javascript-yellow)
+![](https://img.shields.io/badge/IDE-Vscode-green)
+![Static Badge](https://img.shields.io/badge/Code-Typescript-blue)
+![](https://img.shields.io/badge/Code-Node.js-green)
+  
 
-#
+## Watch snake eat my github contributions 😨
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-As a self-driven and ambitious individual with a strong passion for technology and a commitment to continuous learning. My technical expertise is rooted in object-oriented programming languages such as Java, Python, JavaScript and various frameworks which I have developed through various non-traditional avenues, including freelance opportunities and real-world project experiences.
-
-I am particularly interested in the user experience aspect of web development, and system design I am always looking for ways to improve the interaction between users and the applications I build. This has led me to focus on areas such as real-time data updates and secure payment processing, and I am constantly seeking out new opportunities to learn and grow in these areas.
-
-I am excited to continue my career as a software engineer, and I look forward to the opportunity to bring my skills and experience to a more managerial position and challenging projects in the future.🙂
-
-   
-[Portfolio]: https://techfoliohub.vercel.app/   
-[Linkedin]: https://www.linkedin.com/in/justin-tulloch-010502262/
+![snake gif](https://github.com/QuadNard/QuadNard/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
-![snake gif](https://github.com/QuadNard/QuadNard/blob/output/github-contribution-grid-snake.gif)
