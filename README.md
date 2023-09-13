@@ -7,6 +7,7 @@
   <img src="https://wallpapercave.com/wp/wp4751480.png" width="500" height="300"> 
 </div>
 
+</br>
 
 - 🔭 I’m currently working on ... Leet Code
 - 🌱 I’m currently learning ... with Freecodeacademy 
