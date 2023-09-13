@@ -8,6 +8,7 @@
 </div>
 
 </br>
+<h3>Howdy, how ya doing? 🙌</h3>
 
 - 🔭 I’m currently working on ... Leet Code
 - 🌱 I’m currently working with ... Frontend Development
