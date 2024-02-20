@@ -25,8 +25,4 @@
 ![](https://img.shields.io/badge/Code-Node.js-green)
   
 
-## Watch snake eat my github contributions 😨
-
-![snake gif](https://github.com/QuadNard/QuadNard/blob/output/github-contribution-grid-snake.svg)
-
 
