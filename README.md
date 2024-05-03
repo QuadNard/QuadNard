@@ -3,19 +3,15 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=404040&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+engineering" alt="Typing SVG" /></a>
 </p>
 
-<div align=center>
-  <img src="https://wallpapercave.com/wp/wp4751480.png" width="500" height="300"> 
-</div>
-
 </br>
-<h3>Howdy, how ya doing? 🙌</h3>
 
-- 🔭 I’m currently working on ... Leet Code
-- 🌱 I’m currently working with ... Frontend Development
-- 👯 I’m looking to contribute to ... any open source projects
-- 💬 Ask me about ... anything about tech
-- 📫 How to reach me: ... jkinardtulloch@gmail.com
+I’m currently working at Freelance Org and working on some interesting stuff like modular monolith Back Ends, remote packages and low-code efficiency. And a super-efficient shared development model. At this stage I am learning some knowledge about ML computations. If you are also interested in these, let us create fun works together, please follow me😀. 
+
+
 - ⚡ Fun hobbies: ... I enjoy building custom pc's
+- check out my portfolio !
+https://www.tullochstudio.dev/
+
 
 ![](https://img.shields.io/badge/Os-Linux-green)
 ![](https://img.shields.io/badge/Os-Windows-green)
